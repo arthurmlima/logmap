@@ -3,7 +3,7 @@
 Generates the arrays/formulas used when computing the Digital Map - A 
 recreation of the Logistic Map that works over binary numbers using XOR and AND
 
-@author: Marius Furtig-Rytterager
+@author: 
 """
 
 import numpy as np
