@@ -4,7 +4,7 @@ Contains graphing functions for;
     xn vs xn+1 for Logistic and Digital Map
     Cobweb plot of Logistic and Digital Map
 
-@author: Marius Furtig-Rytterager
+@author: 
 """
 
 import numpy as np
